@@ -21,3 +21,7 @@
 `# mysql`
 `mysql> use pucsdStudents`
 `mysql> select * from studentData`
+
+9) Docker_Compose command :
+To run containers : docker-compose up -d 
+To stop containers : docker-compose down
